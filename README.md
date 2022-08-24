@@ -16,26 +16,21 @@
       <tr>
         <td>
           <a href="https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ">
-            <img src="./assets/jeremy_ccna_thumbnail.jpg"  />
+            <img src="./assets/jeremy_ccna_thumbnail.jpg"  />   
+            <p>
+              Free CCNA 200-301 | Complete Course 2022
+            </p>
           </a>
         </td>
         <td>
           <a href="https://www.youtube.com/playlist?list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct">
             <img src="./assets/jeremy_packet_tracer.jpg"  />
+            <p>
+              CCNA Routing & Switching Packet Tracer Labs
+            </p>
           </a>
         </td>
-      <tr/>
-      <tr>
-        <td>
-          <a href="https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ">
-            Free CCNA 200-301 Complete Course 2022
-          </a>
-        </td>
-        <td>
-          <a href="https://www.youtube.com/playlist?list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct">
-            CCNA Routing & Switching Packet Tracer Labs
-          </a>
-        </td>
+      </tr>
     </table>
   </details>
   <br/>
@@ -159,18 +154,18 @@ class schmwong(github.user):
       </td>
     </tr>
   </table>
+  </br>
 </details>
-<br/>
-<br/>
 <section>
   <h2>:bulb: Languages & Frameworks</h2>
   <code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
   <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
   <code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-  <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+  <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></code>
   <code><img title="NodeJS" alt="node js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-  <code><img title="Bash" alt="bash" width=40px src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bash/bash-original.svg" /></code>
+  <code><img title="Bash" alt="bash" width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></code>
   <code><img title="Markdown" alt="markdown" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+  <code><img title="SQL" alt="sql" width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /></code>
   </br></br>
 </section>
 <section>
