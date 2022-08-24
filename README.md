@@ -158,23 +158,79 @@ class schmwong(github.user):
 </details>
 <section>
   <h2>:bulb: Languages & Frameworks</h2>
-  <code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-  <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-  <code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-  <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></code>
-  <code><img title="NodeJS" alt="node js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-  <code><img title="Bash" alt="bash" width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></code>
-  <code><img title="Markdown" alt="markdown" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
-  <code><img title="SQL" alt="sql" width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /></code>
+  <code>
+    <a href="https://docs.python.org/3/">
+      <img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    </a>
+  </code>
+  <code>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+      <img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    </a>
+  </code>
+  <code>
+    <a href="https://www.w3.org/Style/CSS/">
+      <img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    </a>  
+  </code>
+  <code>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    </a>
+  </code>
+  <code>
+    <a href="https://nodejs.org/en/docs/">
+      <img title="NodeJS" alt="node js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    </a>  
+  </code>
+  <code>
+    <a href="https://www.gnu.org/software/bash/manual/bashref.html">
+      <img title="Bash" alt="bash" width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+    </a>
+  </code>
+  <code>
+    <a href="https://www.markdownguide.org/">
+      <img title="Markdown" alt="markdown" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+    </a>
+  </code>
+  <code>
+    <a href="https://dev.mysql.com/doc/">
+      <img title="MySQL" alt="mysql" width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+    </a>
+  </code>
   </br></br>
 </section>
 <section>
   <h2>:hammer_and_wrench: Tools I use</h2>
-  <code><img title="npm" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
-  <code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-  <code><img title="Mozilla Firefox" alt="mozilla firefox" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
-  <code><img title="VS Code" alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-  <code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-  <code><img title="Linux" alt="linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+  <code>
+    <a href="https://docs.npmjs.com/">
+      <img title="npm" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+    </a>
+  </code>
+  <code>
+    <a href="https://git-scm.com/doc">
+      <img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    </a>
+  </code>
+  <code>
+    <a href="https://firefox-source-docs.mozilla.org/devtools-user/">
+      <img title="Mozilla Firefox" alt="mozilla firefox" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />
+    </a>
+  </code>
+  <code>
+    <a href="https://code.visualstudio.com/docs">
+      <img title="VS Code" alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    </a>
+  </code>
+  <code>
+    <a href="https://docs.github.com/en">
+      <img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    </a>
+  </code>
+  <code>
+    <a href="https://linux.die.net/">
+      <img title="Linux" alt="linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    </a>    
+  </code>
   </br></br>
 </section>
