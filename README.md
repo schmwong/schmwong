@@ -67,7 +67,7 @@ class schmwong(github.user):
   personality = "INTP"
   interests = [
     "🔐 Cyber Security",
-    "🤖 Process Automation",
+    "🤖 Process Automation in the Cloud",
     "💈 Data Pipelines"
   ]
 
@@ -107,7 +107,7 @@ class schmwong(github.user):
   人格 = "INTP"
   興趣 = [
     "🔐 網路安全",
-    "🤖 流程自動化",
+    "🤖 雲端流程自動化",
     "💈 數據管道"
   ]
   
