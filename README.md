@@ -9,9 +9,9 @@
 <section>
   <details open>
     <summary>
-      Currently Watching
+      <h3>Currently Watching</h3>
     </summary>
-    <br/>
+<!--     <br/> -->
     <table>
       <tr>
         <td>
@@ -36,9 +36,9 @@
   <br/>
   <details open>
     <summary>
-      Currently Reading
+      <h3>Currently Reading</h3>
     </summary>
-    <br/>
+<!--     <br/> -->
     <a href="https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641">
         <img src="./assets/cover_penetration_testing.jpg" width=160 />
         <p>Penetration Testing</p>
@@ -49,10 +49,10 @@
 <br/>
 <details>
   <summary>
-  Some inconsequential code about myself ...
+    <h3>Some inconsequential code about myself ...</h3>
   </summary>
 
-<br/>
+<!-- <br/> -->
 
 ```python
 class schmwong(github.user):
@@ -132,30 +132,93 @@ class schmwong(github.user):
     <a href="https://github.com/gasolin/zhpy/blob/wiki/AboutZhpy.md">
       About Chinese Python
     </a>
-  </sub>
-  
+  </sub>  
 </details>
-<details>
+
+<details open>
   <summary>
-    More inconsequential stuff
+    <h3>More inconsequential stuff (certs and such)</h3>
   </summary>
-  <br/>
-  <table>
-    <tr>
-      <td>
-        <a href="https://www.credly.com/badges/f1676f95-19f1-4669-878d-ea39425872d0">
-          <img src="./assets/badge_power_bi_da.png" width=300px />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.freecodecamp.org/certification/schmwong/scientific-computing-with-python-v7">
-          <img src="./assets/cert_scicomp_python.png" width=500px />
-        </a>
-      </td>
-    </tr>
-  </table>
-  </br>
+  <details>
+    <summary>
+<!--       <sub>
+        <sup> -->
+          Industry and Self-Paced
+<!--         </sup>
+      </sub> -->
+    </summary>
+<!--     <br/> -->
+    <table>
+      <tbody align="center">
+        <tr>
+          <td>
+            <a href="https://www.credly.com/badges/f1676f95-19f1-4669-878d-ea39425872d0">
+              <img src="./assets/badge_power_bi_da.png" width=230px />
+            </a>
+          </td>
+          <td>
+            <a href="https://www.freecodecamp.org/certification/schmwong/scientific-computing-with-python-v7">
+              <img src="./assets/cert_scicomp_python.png" width=360px />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://courses.edx.org/certificates/225c5c2e995f496189f35ebb93218fae">
+              <img src="./assets/edX_ENCE607.1x.png" width=360px />
+            </a>
+          </td>
+          <td>
+            <a href="https://courses.edx.org/certificates/7ab491e21e03400097e71cc497c76651">
+              <img src="./assets/edX_py4e101x.png" width=360px />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://courses.edx.org/certificates/1839600cfdc94671a5c81090d8590ca2">
+              <img src="./assets/edX_CS50B.png" width=360px />
+            </a>
+          </td>
+          <td>
+            <a href="https://courses.edx.org/certificates/afb3d6e39b934ac69514410ceb56df60">
+              <img src="./assets/edX_JS.0x.png" width=360px />
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
+  <details>
+    <summary>
+<!--         <sup>
+          <sub> -->
+            Instructor-Paced
+<!--           </sub>
+      </sup> -->
+    </summary>
+<!--     <br/> -->
+    <table>
+      <tbody align="center">
+        <tr>
+          <td>
+            <a href="https://credentials.nus.edu.sg/profile/wongshiming975517/transcript">
+              <img src="./assets/cert_nus_ba.png" width=300px />
+            </a>
+          </td>
+          <td>
+            <a href="https://credentials.nus.edu.sg/profile/wongshiming975517/wallet">
+              <img src="./assets/cert_nus_fintech.png" width=300px />
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    </br>
+  </details>
 </details>
+
+<br/>
 <section>
   <h2>:bulb: Languages & Frameworks</h2>
   <code>
