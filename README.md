@@ -234,6 +234,9 @@ class schmwong(github.user):
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   </a>
+  <a href="https://www.typescriptlang.org/docs/handbook/intro.html">
+    <img title="TypeScript" alt="typescript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  </a>
   <a href="https://nodejs.org/en/docs/">
     <img title="NodeJS" alt="node js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </a> 
