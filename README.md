@@ -271,5 +271,8 @@ class schmwong(github.user):
   <a href="https://linux.die.net/">
     <img title="Linux" alt="linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   </a>
+  <a href="https://quickstarts.postman.com/">
+    <img title="Postman" alt="Postman" width="45px" src="./assets/postman-icon-svgrepo-com.svg" />
+  </a>
   </br></br>
 </section>
