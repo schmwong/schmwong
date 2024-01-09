@@ -83,7 +83,7 @@ class schmwong(github.user):
     return wrapper
 
   @thank_decorator
-  def hello():
+  def hello(name=schmwong.name, country=schmwong.country):
     print(f"Hi, {name} here 👋")
     print(f"I'm from {country}")
 ```
@@ -123,7 +123,7 @@ class schmwong(github.user):
     傳回 包裝器
   
   @歡迎_裝飾器
-  定義 問候():
+  定義 問候(名=schmwong.名, 國籍=schmwong.國籍):
     印("你好, 我是, ", 名, " 👋")
     印("我來自 ", 國籍)
 ```
